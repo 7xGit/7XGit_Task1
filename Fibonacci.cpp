@@ -18,5 +18,6 @@ int main() {
         b = next;
     }
 
+    cout<<'\n';
     return 0;
 }
